@@ -8,6 +8,10 @@
 
 // git config --global user.email"nattawatwichaiyo1@gmail.com"
 
+// git push -u origin main
+
+// git remote add origin https://github.com/ChibaConnor/appiot.git
+
 const express = require('express')
 const app = express()
 const port = 3000
