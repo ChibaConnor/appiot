@@ -6,4 +6,4 @@ clearTimeout(t)
 
 // git config --global user.name "ChibaConnor"
 
-// git config --global user.name "nattawatwichaiyo1@gmail.com"
+// git config --global user.email"nattawatwichaiyo1@gmail.com"
